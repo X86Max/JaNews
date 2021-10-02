@@ -64,3 +64,8 @@ body {
       padding: 0;
     }
   }
+  /* deixar as fotos responsivas */
+  #logo_wrapper img {
+    max-width: 100%;
+    height: auto;
+  }
